@@ -1,0 +1,16 @@
+{
+  "name": "my_git_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://milankahiriya.github.io/my_git_site",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
